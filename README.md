@@ -6,3 +6,20 @@
 ## 1) Requette sur les différents établissements supérieurs françcais, leur date de création ainsi que les images corespondantes
 
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%20%3Fdatecreation%20%3Fimage%20%3Fcoord%20WHERE%20%7B%0A%3Fitem%20wdt%3AP31%20wd%3AQ3918.%0A%3Fitem%20wdt%3AP17%20wd%3AQ142.%0AOPTIONAL%20%7B%0A%3Fitem%20wdt%3AP571%20%3Fdatecreation.%0A%3Fitem%20wdt%3AP18%20%3Fimage%20.%0A%3Fitem%20wdt%3AP625%20%3Fcoord%20.%0A%0A%7D%0A%0A%0A%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22fr%22.%20%7D%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" ></iframe> 
+
+## 2) Les établissements français Publics et privés 
+
+<ods-dataset-context context="fresrprincipauxetablissementsenseignementsuperieurmesr,fresrprincipauxetablissementsenseignementsuperieurmesr0,fresrprincipauxetablissementsenseignementsuperieurmesr1" fresrprincipauxetablissementsenseignementsuperieurmesr-dataset="fr-esr-principaux-etablissements-enseignement-superieur@mesr" fresrprincipauxetablissementsenseignementsuperieurmesr-parameters="{'disjunctive.type_d_etablissement':true,'disjunctive.typologie_d_universites_et_assimiles':true}" fresrprincipauxetablissementsenseignementsuperieurmesr0-dataset="fr-esr-principaux-etablissements-enseignement-superieur@mesr" fresrprincipauxetablissementsenseignementsuperieurmesr0-parameters="{'disjunctive.type_d_etablissement':true,'disjunctive.typologie_d_universites_et_assimiles':true,'q':'privé'}" fresrprincipauxetablissementsenseignementsuperieurmesr1-dataset="fr-esr-principaux-etablissements-enseignement-superieur@mesr" fresrprincipauxetablissementsenseignementsuperieurmesr1-parameters="{'disjunctive.type_d_etablissement':true,'disjunctive.typologie_d_universites_et_assimiles':true,'q':'public'}">
+    <ods-map no-refit="true" scroll-wheel-zoom="false" display-control="true" search-box="true" toolbar-fullscreen="true" toolbar-geolocation="true" basemap="jawg.streets" location="5,52.03898,3.38379">
+        <ods-map-layer-group>
+            <ods-map-layer context="fresrprincipauxetablissementsenseignementsuperieurmesr" color-categories="{'École':'#263891','Université':'#619FC8','Grand établissement':'#F7B133','Autre établissement':'#CB516D'}" color-by-field="type_d_etablissement" color-categories-other="#638E5B" picto="ods-college" show-marker="true" display="categories" function="COUNT" shape-opacity="0.5" point-opacity="1" border-color="#FFFFFF" border-opacity="1" border-size="1" border-pattern="solid" caption="true" caption-picto-color="#E5E5E5" title="Principaux établissements d'enseignement supérieur" description="Caractéristiques des principaux établissements d'enseignement supérieur. Situation à date." size="4"></ods-map-layer>
+        </ods-map-layer-group>
+        <ods-map-layer-group>
+            <ods-map-layer context="fresrprincipauxetablissementsenseignementsuperieurmesr0" color="#591787" picto="ods-college" show-marker="true" display="auto" shape-opacity="0.5" point-opacity="1" border-color="#FFFFFF" border-opacity="1" border-size="1" border-pattern="solid" caption="true" title="Principaux établissements d'enseignement supérieur" description="Caractéristiques des principaux établissements d'enseignement supérieur. Situation à date." size="4" size-min="3" size-max="5" size-function="linear"></ods-map-layer>
+        </ods-map-layer-group>
+        <ods-map-layer-group>
+            <ods-map-layer context="fresrprincipauxetablissementsenseignementsuperieurmesr1" color="#8FAF89" picto="college" show-marker="true" display="auto" shape-opacity="0.5" point-opacity="1" border-color="#FFFFFF" border-opacity="1" border-size="1" border-pattern="solid" caption="true" caption-picto-color="#E5E5E5" title="Principaux établissements d'enseignement supérieur" description="Caractéristiques des principaux établissements d'enseignement supérieur. Situation à date." size="4" size-min="3" size-max="5" size-function="linear"></ods-map-layer>
+        </ods-map-layer-group>
+    </ods-map>
+
+</ods-dataset-context>
