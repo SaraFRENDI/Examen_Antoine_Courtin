@@ -29,5 +29,14 @@ OPTIONAL {
 
 <iframe style="width: 100vw; height: 80vh; border: none;" src="https://query.wikidata.org/embed.html#SELECT%20%3Fitem%20%3FitemLabel%20%3Fdatecreation%20%3Fimage%20%3Fcoord%20WHERE%20%7B%0A%3Fitem%20wdt%3AP31%20wd%3AQ3918.%0A%3Fitem%20wdt%3AP17%20wd%3AQ142.%0AOPTIONAL%20%7B%0A%3Fitem%20wdt%3AP571%20%3Fdatecreation.%0A%3Fitem%20wdt%3AP18%20%3Fimage%20.%0A%3Fitem%20wdt%3AP625%20%3Fcoord%20.%0A%0A%7D%0A%0A%0A%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22fr%22.%20%7D%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" ></iframe> 
 
-## 2) Les établissements français Publics et privés 
+## 2) Les types d'établissements supérieurs
+
+<ods-dataset-context context="fresrprincipauxetablissementsenseignementsuperieurmesr" fresrprincipauxetablissementsenseignementsuperieurmesr-dataset="fr-esr-principaux-etablissements-enseignement-superieur@mesr">
+    <ods-map no-refit="true" scroll-wheel-zoom="false" display-control="true" search-box="true" toolbar-fullscreen="true" toolbar-geolocation="true" basemap="jawg.streets" location="5,45.50635,3.16406">
+        <ods-map-layer-group>
+            <ods-map-layer context="fresrprincipauxetablissementsenseignementsuperieurmesr" color-categories="{'École':'#8DB9D8','Université':'#93107F','Grand établissement':'#F7B133','Autre établissement':'#19630A'}" color-by-field="type_d_etablissement" color-categories-other="#C32D1C" picto="ods-college" show-marker="false" display="categories" function="COUNT" shape-opacity="0.5" point-opacity="1" border-color="#FFFFFF" border-opacity="1" border-size="1" border-pattern="solid" caption="true" caption-picto-icon="ods-college" caption-picto-color="#19630A" title="Principaux établissements d'enseignement supérieur" description="Caractéristiques des principaux établissements d'enseignement supérieur. Situation à date." size="5"></ods-map-layer>
+        </ods-map-layer-group>
+    </ods-map>
+
+</ods-dataset-context>
 
