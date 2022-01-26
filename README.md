@@ -9,3 +9,4 @@
 
 ## 2) Les établissements français Publics et privés 
 
+<iframe style="width: 80vw; height: 50vh; border: none;" src="https://w.wiki/4k32" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" ></iframe>
