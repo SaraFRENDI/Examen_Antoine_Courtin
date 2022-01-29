@@ -31,12 +31,5 @@ OPTIONAL {
 
 ## 2) Les types d'établissements supérieurs
 
-<ods-dataset-context context="fresrprincipauxetablissementsenseignementsuperieurmesr" fresrprincipauxetablissementsenseignementsuperieurmesr-dataset="fr-esr-principaux-etablissements-enseignement-superieur@mesr">
-    <ods-map no-refit="true" scroll-wheel-zoom="false" display-control="true" search-box="true" toolbar-fullscreen="true" toolbar-geolocation="true" basemap="jawg.streets" location="5,45.50635,3.16406">
-        <ods-map-layer-group>
-            <ods-map-layer context="fresrprincipauxetablissementsenseignementsuperieurmesr" color-categories="{'École':'#8DB9D8','Université':'#93107F','Grand établissement':'#F7B133','Autre établissement':'#19630A'}" color-by-field="type_d_etablissement" color-categories-other="#C32D1C" picto="ods-college" show-marker="false" display="categories" function="COUNT" shape-opacity="0.5" point-opacity="1" border-color="#FFFFFF" border-opacity="1" border-size="1" border-pattern="solid" caption="true" caption-picto-icon="ods-college" caption-picto-color="#19630A" title="Principaux établissements d'enseignement supérieur" description="Caractéristiques des principaux établissements d'enseignement supérieur. Situation à date." size="5"></ods-map-layer>
-        </ods-map-layer-group>
-    </ods-map>
-
-</ods-dataset-context>
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/type_etablissement_sara/?&static=false&scrollWheelZoom=false"></iframe>
 
