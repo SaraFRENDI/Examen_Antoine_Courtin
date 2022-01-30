@@ -1,10 +1,28 @@
 # Sujet : Les principaux établissements d'enseignement supérieur en france 
 
+## Introduction 
+
+Le terme d'études supérieures (parfois appelées études tertiaires (en)1), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’institut et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
+
+## Les données récoltés 
+
+D'après les données récoltés nous comptons 255 étbalissements d'enseignement supérieur français, ces derniers régroupe les écoles, les Universités, les Grands établissements et autres. Chacun fait partie d'une typologie précise, d'un secteur précis, à un nom, un url, un sigle, une localisation, date de création, un identifiant ainsi que d'autres infomrations importantes relatives à ces établissements.
+
+Les données récoltés sont de (format Csv), elles vont nous servir dans la suite du projet comme base de données à importer dans différents outils de création de jeux de données. 
+les données se présentent comme suit : 
+ 
+ 
+ 
+ ## Premier jeu de données 
+ 
+ Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique, compbien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web. 
+
+
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissements_sup_fr_sara/?&static=false&scrollWheelZoom=false"></iframe>
 
 
 
-## 1) Requette sur les différents établissements supérieurs français, leur date de création ainsi que les images corespondantes
+### 1) Requette sur les différents établissements supérieurs français, leur date de création ainsi que les images corespondantes
 
 ```sparql
 #Etablissements supérieurs
