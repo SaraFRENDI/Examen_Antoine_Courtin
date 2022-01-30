@@ -16,7 +16,8 @@ les données se présentent comme suit :
  ### Premier jeu de données 
  
  
- Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique, compbien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web. 
+ Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique, combien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
+Garce à ce jeu de données, nous découvrons qu'il existe des établissement français qui se trouvent dans d'autres pays, par exemple : L'Institut français d'archéologie orientale du Caire qui se trouve en Egypte.
 
 
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissements_sup_fr_sara/?&static=false&scrollWheelZoom=false"></iframe>
@@ -24,6 +25,14 @@ les données se présentent comme suit :
 
 
 ### 1) Requette sur les différents établissements supérieurs français, leur date de création ainsi que les images corespondantes
+
+la requette suivante a été effectuée sur Wikidata, elle nou permet d'afficher différement les informations souhaitées : 
+* Une carte géographique qui montre les différents établissements supérieurs de france 
+* Les images des établissements avec en bas de chaque image, la date de création s'il y'en a, les coordonnées de l'établissement
+* Un tableau dans lequel nous avons les Items de chaque établissement, le nom, le lien vers l'image, la date de création, les coordonées 
+
+#### Remarque :
+La visualisation des données en utilisant cette requette nous a donné l'occasion de voir les images de chaque établissement donc nous a donné une vision plus agréable, mais celui-ci n'a pas affiché toutes les images, il y'a des établissements pour lesquelles nous ne trouvons pas d'image dans Wikidata, ce qui est le cas pour les dates de création aussi  
 
 ```sparql
 #Etablissements supérieurs
@@ -45,6 +54,8 @@ OPTIONAL {
 }
 
 ```
+C-dessous l'affichage du résultat de la requette : 
+
 ### Le tableau résultant 
 
 <iframe style="width: 70vw; height: 40vh; border: none;" src="https://query.wikidata.org/embed.html#%23Etablissements%20sup%C3%A9rieurs%0ASELECT%20%3Fitem%20%3FitemLabel%20%3Fimage%20%3Fdatecreation%20%3Fcoord%20WHERE%0A%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3918.%0A%3Fitem%20wdt%3AP17%20wd%3AQ142.%0AOPTIONAL%20%7B%0A%3Fitem%20wdt%3AP18%20%3Fimage.%20%23affichier%20les%20images%20%0A%3Fitem%20wdt%3AP571%20%3Fdatecreation.%0A%3Fitem%20wdt%3AP18%20%3Fimage%20.%0A%3Fitem%20wdt%3AP625%20%3Fcoord%20.%0A%0A%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7Bbd%3AserviceParam%20wikibase%3Alanguage%20%22fr%2Cen%22%7D%0A%7D%0A%0A%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" ></iframe>
