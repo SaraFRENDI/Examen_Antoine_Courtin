@@ -1,4 +1,4 @@
-# Sujet : Les principaux établissements d'enseignement supérieur en france 
+# Sujet : Les principaux établissements d'enseignement supérieur français 
 
 ## Introduction 
 
@@ -24,7 +24,7 @@ Garce à ce jeu de données, nous découvrons qu'il existe des établissement fr
 
 
 
-### 1) Requette sur les différents établissements supérieurs français, leur date de création ainsi que les images corespondantes
+### 1) Requette sur les différents établissements d'enseignement supérieur français, leur date de création ainsi et les images corespondantes
 
 la requette suivante a été effectuée sur Wikidata, elle nou permet d'afficher différement les informations souhaitées : 
 * Une carte géographique qui montre les différents établissements supérieurs de france 
