@@ -13,7 +13,8 @@ les données se présentent comme suit :
  
  
  
- ## Premier jeu de données 
+ ### Premier jeu de données 
+ 
  
  Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique, compbien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web. 
 
@@ -44,7 +45,7 @@ OPTIONAL {
 }
 
 ```
-## Le tableau résultant 
+### Le tableau résultant 
 
 <iframe style="width: 70vw; height: 40vh; border: none;" src="https://query.wikidata.org/embed.html#%23Etablissements%20sup%C3%A9rieurs%0ASELECT%20%3Fitem%20%3FitemLabel%20%3Fimage%20%3Fdatecreation%20%3Fcoord%20WHERE%0A%7B%0A%20%20%3Fitem%20wdt%3AP31%20wd%3AQ3918.%0A%3Fitem%20wdt%3AP17%20wd%3AQ142.%0AOPTIONAL%20%7B%0A%3Fitem%20wdt%3AP18%20%3Fimage.%20%23affichier%20les%20images%20%0A%3Fitem%20wdt%3AP571%20%3Fdatecreation.%0A%3Fitem%20wdt%3AP18%20%3Fimage%20.%0A%3Fitem%20wdt%3AP625%20%3Fcoord%20.%0A%0A%7D%0A%0A%20%20SERVICE%20wikibase%3Alabel%20%7Bbd%3AserviceParam%20wikibase%3Alanguage%20%22fr%2Cen%22%7D%0A%7D%0A%0A%0A" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups" ></iframe>
 
