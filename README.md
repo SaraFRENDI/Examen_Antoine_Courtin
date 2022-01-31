@@ -72,3 +72,7 @@ C-dessous l'affichage du résultat de la requette :
 ### Graphique sur le nombre et le type d'établissement par région 
 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_etablissements-region/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+
+### Les établissements d'enseignement supérieurs avec leur statut juridique 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
