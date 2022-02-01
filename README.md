@@ -19,18 +19,19 @@ Avant de réaliser les jeux de données, j'ai récolté les données sur le site
 
 Le lien -->  [GitHub Pages](https://www.data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr/
  ) 
-D'après les données récoltés nous comptons 255 étbalissements d'enseignement supérieur français, ces derniers régroupe les écoles, les Universités, les Grands établissements et autres. Chacun fait partie d'une typologie précise, d'un secteur précis, à un nom, un url, un sigle, une localisation, date de création, un identifiant ainsi que d'autres infomrations importantes relatives à ces établissements.
+ 
+D'après les données récoltés? nous comptons 255 étbalissements d'enseignement supérieur français, ces derniers régroupe les écoles, les Universités, les Grands établissements et autres. Chacun fait partie d'une typologie précise, d'un secteur précis, à un nom, un url, un sigle, une localisation, date de création, un identifiant ainsi que d'autres infomrations importantes relatives à ces établissements.
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/principaux-etablissements-denseignement-superieur@datailedefrance/table/?disjunctive.type_d_etablissement&disjunctive.typologie_d_universites_et_assimiles&static=false&datasetcard=false" width="800" height="500" frameborder="0"></iframe>
 
 Les données récoltés sont de (format Csv), elles vont nous servir dans la suite du projet comme base de données à importer dans différents outils de création de jeux de données.
  
- 
+Pour faciliter la compréhension des jeux de données, j'ai fait en sotre de faire comprendre au public par ordre hiérarchique nos jeux de données, c'est à dire commençant par le plus simple au plus complexe en matière de charge d'informations.   
  
 ### Premier jeu de données 
  
  
- Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique, combien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
+ Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique ed manière globale; combien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
 Garce à ce jeu de données, nous découvrons qu'il existe des établissement français qui se trouvent dans d'autres pays, par exemple : L'Institut français d'archéologie orientale du Caire qui se trouve en Egypte.
 
 
