@@ -1,5 +1,7 @@
 # Sujet : Les principaux établissements d'enseignement supérieur français 
 
+!(pexels-pixabay-207691.jpg)
+
 ## Introduction 
 
 Le terme d'études supérieures (parfois appelées études tertiaires (en)1), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’institut et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
