@@ -85,7 +85,12 @@ Ce jeu de données est réalisé à partir de l'outil OpenDataSoft, il nous a pe
 
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/type_etablissement_sara/?&static=false&scrollWheelZoom=false"></iframe>
 
+### Troisième jeu de données 
+
 ### Graphique sur le nombre et le type d'établissement par région 
+Ce type de jeu de données qui est un diagrame à batons a été réalisé à partir de l'outil OpenDataSoft,il permet une représentation graphique d'une série de données (le nombre des établissements. Les hauteurs des bâtons sont les valeurs de ces données. Pour chaque région nous avons au minimum un baton et au maximum 4 batons, car nous avons 4 types d'établissements différents, il y'a des régions où se trouvent les quatres types détablissements avec un nombre différent pour chaque type, nous avons d'autres régions ou nou n'avons pas tous les types ce qui est le but de ce diagrame.
+Constat : Nous constatons après avoir bien observé notre diagramme que la région d'Ile de france est la région où il y'a le plus grand nombre d'écoles (58) et 
+
 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_etablissements-region/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
