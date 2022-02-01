@@ -10,7 +10,7 @@ Le terme d'études supérieures (parfois appelées études tertiaires (en)1), ou
 
 D'après les données récoltés nous comptons 255 étbalissements d'enseignement supérieur français, ces derniers régroupe les écoles, les Universités, les Grands établissements et autres. Chacun fait partie d'une typologie précise, d'un secteur précis, à un nom, un url, un sigle, une localisation, date de création, un identifiant ainsi que d'autres infomrations importantes relatives à ces établissements.
 
-<iframe src="https://data.opendatasoft.com/explore/embed/dataset/principaux-etablissements-denseignement-superieur@datailedefrance/table/?disjunctive.type_d_etablissement&disjunctive.typologie_d_universites_et_assimiles&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
+<iframe src="https://data.opendatasoft.com/explore/embed/dataset/principaux-etablissements-denseignement-superieur@datailedefrance/table/?disjunctive.type_d_etablissement&disjunctive.typologie_d_universites_et_assimiles&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
 Les données récoltés sont de (format Csv), elles vont nous servir dans la suite du projet comme base de données à importer dans différents outils de création de jeux de données.
 
