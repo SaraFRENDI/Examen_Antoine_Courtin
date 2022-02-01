@@ -8,8 +8,6 @@ Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé a
 
 ### Définition du Sujet 
 
-Sara 
-
 Le terme d'études supérieures (parfois appelées études tertiaires), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’instituts et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
 
 ## Les données récoltés 
@@ -83,7 +81,7 @@ Remarque : nous pouvons changer l'affichage ( map, tableau, images...) en cliqua
 
 #### Les types d'établissements supérieurs
 
-Ce jeu de données est réalisé à partir de l'outil OpenDataSoft, il nous a permis d'afficher les types d'établissemts d'enseignement supérieur existant dans chaque région, nous faisons la différence entre une école, une université, un grand établissement et autre suivant la
+Ce jeu de données est réalisé à partir de l'outil OpenDataSoft, il nous a permis d'afficher les types d'établissemts d'enseignement supérieur existant dans chaque région, nous faisons la différence entre une école, une université, un grand établissement ou autre en suivant la clef des couleurs indiquée sur la carte.
 
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/type_etablissement_sara/?&static=false&scrollWheelZoom=false"></iframe>
 
