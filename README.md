@@ -3,21 +3,27 @@
 ![Image](pexels-pixabay-207691.jpg)
 
 ## Introduction 
+Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'université française existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
+Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé ainsi que le but de ce dernier.
 
-Le terme d'études supérieures (parfois appelées études tertiaires (en)1), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’institut et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
+### Définition du Sujet 
+
+Le terme d'études supérieures (parfois appelées études tertiaires), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’instituts et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
 
 ## Les données récoltés 
 
+### Première étape : la récolte des données 
+Avant de réaliser les jeux de données, j'ai récolté les données sur le site (data.gouv.fr ) 
+
+#### Le lien vers les données récoltées est le suivant : 
+
+Le lien -->  [GitHub Pages](https://www.data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr/
+ ) 
 D'après les données récoltés nous comptons 255 étbalissements d'enseignement supérieur français, ces derniers régroupe les écoles, les Universités, les Grands établissements et autres. Chacun fait partie d'une typologie précise, d'un secteur précis, à un nom, un url, un sigle, une localisation, date de création, un identifiant ainsi que d'autres infomrations importantes relatives à ces établissements.
 
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/principaux-etablissements-denseignement-superieur@datailedefrance/table/?disjunctive.type_d_etablissement&disjunctive.typologie_d_universites_et_assimiles&static=false&datasetcard=false" width="800" height="500" frameborder="0"></iframe>
 
 Les données récoltés sont de (format Csv), elles vont nous servir dans la suite du projet comme base de données à importer dans différents outils de création de jeux de données.
-
-### Le lien vers les données récoltées est le suivant : 
-
-Le lien -->  [GitHub Pages](https://www.data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr/
- ) 
  
  
  
