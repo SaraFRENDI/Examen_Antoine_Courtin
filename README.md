@@ -1,6 +1,6 @@
 # Sujet : Les principaux établissements d'enseignement supérieur français 
 
-!(pexels-pixabay-207691.jpg)
+![Image](pexels-pixabay-207691.jpg)
 
 ## Introduction 
 
@@ -14,14 +14,14 @@ D'après les données récoltés nous comptons 255 étbalissements d'enseignemen
 
 Les données récoltés sont de (format Csv), elles vont nous servir dans la suite du projet comme base de données à importer dans différents outils de création de jeux de données.
 
-#### Le lien vers les données récoltées est le suivant : 
+### Le lien vers les données récoltées est le suivant : 
 
 Le lien -->  [GitHub Pages](https://www.data.gouv.fr/fr/datasets/principaux-etablissements-d-enseignement-superieur-mesr/
  ) 
  
  
  
- ### Premier jeu de données 
+### Premier jeu de données 
  
  
  Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft, nous permet de voir dans la carte géographique, combien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
