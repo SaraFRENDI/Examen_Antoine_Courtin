@@ -3,24 +3,30 @@
 
 ![Image](pexels-pixabay-207691.jpg)
 
-## Table des matières
 
-* [Introduction](#Introduction)
-* [Définition du sujet](#Définition du sujet)
-    * [Section 1.1](#section_1_1)
-    * [Section 1.2](sSection_1_2)
-        * [Section 1.2.1](#section_1_2_1)
-        * [Section 1.2.2](#section_1_2_2)
-        * [Section 1.2.3](#section_1_2_3)
-* [Chapter 2](#chapter2)
-    * [Section 2.1](#section_2_1)
-    * [Section 2.2](#section_2_2)
+# Table of contents
+1. [Introduction](#introduction)
+2. [Définition du Sujet](#Définition du Sujet)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
 
 ## Introduction 
 Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'université française existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
 Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé ainsi que le but de ce dernier.
 
-### Définition du Sujet 
+## Définition du Sujet 
 
 Le terme d'études supérieures (parfois appelées études tertiaires), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’instituts et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
 
