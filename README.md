@@ -37,7 +37,7 @@ Garce à ce jeu de données, nous découvrons qu'il existe des établissement fr
 
 ### Requette sur les différents établissements d'enseignement supérieur français, leur date de création ainsi et les images corespondantes
 
-la requette suivante a été effectuée sur Wikidata, elle nou permet d'afficher différement les informations souhaitées :
+la requette suivante a été effectuée sur Wikidata, elle nous permet d'afficher différement les informations souhaitées :
 
 * Une carte géographique qui montre les différents établissements supérieurs de france 
 * Les images des établissements avec en bas de chaque image, la date de création s'il y'en a, les coordonnées de l'établissement
@@ -93,7 +93,7 @@ Ce jeu de données est réalisé à partir de l'outil OpenDataSoft, il nous a pe
 Ce type de jeu de données qui est un diagrame à batons a été réalisé à partir de l'outil OpenDataSoft, il permet une représentation graphique d'une série de données (le nombre des établissements par régions). Les hauteurs des bâtons sont les valeurs de ces données. Pour chaque région nous avons au minimum un baton et au maximum 4 batons, car nous avons 4 types d'établissements différents, il y'a des régions où se trouvent les quatres types détablissements avec un nombre différent pour chaque type, nous avons d'autres régions ou nou n'avons pas tous les types ce qui est le but de ce diagrame.
 ##### Observation et Constat : 
 
-Nous constatons après avoir bien observé notre diagramme que la région d'Ile de france est la région où il y'a le plus grand nombre d'établissements ((écoles (58), universités (15), grands établissements (12), Autre (1) comparé à d'autres régions de France où nous avons beaucoups moins détablissements comme en Auvergne-Rhône-Alpes qui contient un nombre de 11 écoles, 7 universités, 2 grands établissements, 1 autre , nous constatons aussi qu'il existe des régions où nous n'avons que des universités comme la région de la réunion où il y'a qu'une seule et unique université. Nous remarquons aussi qu'à l'étranger; il y'a que des étbalissements de type "autre" et pas d'universités ni d'écoles ou grands établissement français. 
+Nous constatons après avoir bien observé notre diagramme que la région d'Ile de france est la région où il y'a le plus grand nombre d'établissements (écoles (58), universités (15), grands établissements (12), Autre (1)) comparé à d'autres régions de France où nous avons beaucoups moins détablissements comme en Auvergne-Rhône-Alpes qui contient un nombre de 11 écoles, 7 universités, 2 grands établissements, 1 autre , nous constatons aussi qu'il existe des régions où nous n'avons que des universités comme la région de la réunion où il y'a qu'une seule et unique université. Nous remarquons aussi qu'à l'étranger; il y'a que des étbalissements de type "autre" et pas d'universités ni d'écoles ou grands établissement français. 
 ##### Résultat du constat : 
 
 Le plus grand nombre d'établissements en Ile de france est dù à sa population dense, ainsi qu'au fait que c'est là ou se trouve la capitale de France ( Paris ).
