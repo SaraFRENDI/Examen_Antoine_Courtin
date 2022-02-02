@@ -35,7 +35,7 @@ Garce à ce jeu de données, nous découvrons qu'il existe des établissement fr
 
 <iframe frameborder="0" width="800" height="500" src="https://data.opendatasoft.com/map/embed/etablissements_sup_fr_sara/?&static=false&scrollWheelZoom=false"></iframe>
 
-### 1) Requette sur les différents établissements d'enseignement supérieur français, leur date de création ainsi et les images corespondantes
+### Requette sur les différents établissements d'enseignement supérieur français, leur date de création ainsi et les images corespondantes
 
 la requette suivante a été effectuée sur Wikidata, elle nou permet d'afficher différement les informations souhaitées :
 
