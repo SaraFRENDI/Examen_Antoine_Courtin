@@ -3,6 +3,18 @@
 
 ![Image](pexels-pixabay-207691.jpg)
 
+## Table des matières
+
+* [Introduction](#chapter1)
+    * [Section 1.1](#section_1_1)
+    * [Section 1.2](sSection_1_2)
+        * [Section 1.2.1](#section_1_2_1)
+        * [Section 1.2.2](#section_1_2_2)
+        * [Section 1.2.3](#section_1_2_3)
+* [Chapter 2](#chapter2)
+    * [Section 2.1](#section_2_1)
+    * [Section 2.2](#section_2_2)
+
 ## Introduction 
 Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'université française existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
 Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé ainsi que le but de ce dernier.
