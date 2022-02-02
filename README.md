@@ -1,3 +1,4 @@
+
 # Sujet : Les principaux établissements d'enseignement supérieur français 
 
 ![Image](pexels-pixabay-207691.jpg)
@@ -105,6 +106,11 @@ Le plus grand nombre d'établissements en Ile de france est dù à sa population
 ### Quatrième jeu de données 
 
 #### Les établissements d'enseignement supérieur par secteur ( privé/Public)
+
+Ce jeu de données est réalisé à partir de l'outil Palladio, il nous permet de voir le nom des établissements ( nom_court ) par secteur. 
+Nous observons deux types de secteurs existants, le secteur privé et le secteur public.
+Ce jeu de données ne permet pas de voir le nombre d'établissemnents qui appartiennent aux secteur privé ou public, mais nous donne une vision globale sur ce point; visuellement nous constatons qu'il figure un plus grand nombre d'établissemnts publics que d'établissemnts privés. certes ce constat n'a pas d'exactitude cependant nous voyons un point important concernant un seul établissemnt français qui est ITESCIA qui est l'école du i-management, cet établissemnt fait partie du secteur public et privé au même temps.
+
  ![Palladio](Palladio Graph (4).svg)
 ### Cinquième jeu de données 
 
