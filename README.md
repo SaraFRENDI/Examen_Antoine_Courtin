@@ -3,12 +3,13 @@
 # My Table of content
 
 - [Introduction](#Introduction)
-- [Définition du Sujet](#Définition du Sujet)
-- [Les jeux de données réalisés](#Les jeux de données réalisées)
-- [Premier jeu de données ](#Premier jeu de données )
-- [Définition du Sujet](#Définition du Sujet)
+- [Définition du Sujet]
+- [Les jeux de données réalisés]
+- [Premier jeu de données ]
+- [Définition du Sujet]
 
 <div id='Introduction'/>
+
 <div id='Définition du Sujet'/>
 <div id='Les jeux de données réalisés'/>
 <div id='Premier jeu de données'/>
@@ -20,7 +21,7 @@
 Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'université française existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
 Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé ainsi que le but de ce dernier.
 
-### Définition du Sujet 
+## Définition du Sujet 
 
 Le terme d'études supérieures (parfois appelées études tertiaires), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’instituts et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
 
