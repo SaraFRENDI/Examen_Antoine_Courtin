@@ -7,13 +7,19 @@
 # Table of contents
 1. [Introduction](#introduction)
 2. [Définition du Sujet](#Définition du Sujet)
+3. [Les données récoltées](#Les données récoltées)
+4. [Les jeux de données réslisés](#Les jeux de données réslisés)
     1. [Sub paragraph](#subparagraph1)
 3. [Another paragraph](#paragraph2)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 
-## Some paragraph <a name="paragraph1"></a>
+## Définition du Sujet <a name="Définition du Sujet"></a>
+The first paragraph text
+## Les données récoltées <a name="Les données récoltées"></a>
+The first paragraph text
+## Les jeux de données réslisés <a name="Les jeux de données réslisés"></a>
 The first paragraph text
 
 ### Sub paragraph <a name="subparagraph1"></a>
@@ -21,6 +27,9 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+
+
 
 ## Introduction 
 Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'université française existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
@@ -30,9 +39,8 @@ Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé a
 
 Le terme d'études supérieures (parfois appelées études tertiaires), ou d'enseignement supérieur, désigne généralement l'instruction dispensée par les universités. En France un système plus dual de grandes écoles, d’instituts et d'autres institutions comme les grands établissements décernant des grades universitaires ou autres diplômes de l’enseignement supérieur. Ces études visent à acquérir un niveau « supérieur » de compétences.
 
-## Les données récoltés 
+## Les données récoltées 
 
-### Première étape : la récolte des données 
 Avant de réaliser les jeux de données, j'ai récolté les données sur le site (data.gouv.fr ) 
 
 #### Le lien vers les données récoltées est le suivant : 
@@ -47,7 +55,9 @@ D'après les données récoltés? nous comptons 255 étbalissements d'enseigneme
 Les données récoltés sont de (format Csv), elles vont nous servir dans la suite du projet comme base de données à importer dans différents outils de création de jeux de données.
  
 Pour faciliter la compréhension des jeux de données, j'ai fait en sorte de faire comprendre au public par ordre hiérarchique nos jeux de données, c'est à dire commençant par le plus simple au plus complexe en matière de charge d'informations.
- 
+
+## Les jeux de données réalisés
+
 ### Premier jeu de données 
  
  Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft; est une carte géographique qui nous permet de voir d'une manière globale; combien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
