@@ -105,7 +105,7 @@ Le plus grand nombre d'établissements en Ile de france est dù à sa population
 ### Quatrième jeu de données 
 
 #### Les établissements d'enseignement supérieur par secteur ( privé/Public)
- ![Image]
+ ![Palladio](Palladio Graph (4).svg)
 ### Cinquième jeu de données 
 
 #### Graph sur le nombre des étudiants inscrits en 2011 et 2017
