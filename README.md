@@ -107,7 +107,23 @@ Le plus grand nombre d'établissements en Ile de france est dù à sa population
 #### Les établissements d'enseignement supérieur par secteur ( privé/Public)
 
 
-### Graph sur le nombre des étudiants inscrits en 2010 et 2017
+### Cinquième jeu de données 
+
+#### Graph sur le nombre des étudiants inscrits en 2011 et 2017
+
+##### Explication du graphique : 
+
+Ce jeu de données présenté est un diagrame à batons a été réalisé à partir de l'outil DataWrapper, il permet une représentation graphique d'une série de données (Les noms d'établissemnts par nombre détudiants inscrits en 2011 et 2017). Les hauteurs des bâtons sont des valeurs différentes des nombres d'étudiants selon ces deux années ( le bleu pour les étudiants inscrits en 2010, le rouge pour les étudiants inscrits en 2017. 
+
+##### Observation et Constat : 
+
+Nous constatons après avoir bien observé notre diagramme que l'université de la Sorbonne contient le plus grand nombre d'inscription comparés aux autres, elle contient 52,28k d'inscriptions en 2011, et un peu plus en 2017 , l'établissemnt qui a le moins d'inscription est l'ecole supérieure de fonderie et de forge. Nous remarquons sue en moyenne globale ce sont les universités qui ont le plus d'inscriptions que les écoles.
+
+
+##### Résultat du constat : 
+Hausse d'inscriptions dans les universités comparé aux écoles est dû au fait que les inscriptions soient gratuites ou moins chères dans les universités que dans les écoles, et probablement aussi liés aux conditions d'acceptabilité qui sont plus strictes quand il s'agit des écoles.
+Le fait de comparer entre les inscriptions de l'année 2011 et 2017 a pour but de savoir si l'évolution des inscription (en moyenne) est resté le même au fil du temps. Donc nous avons confirmé cette hypothèse à partir de ce jeu de données ! 
+
 
 <iframe title="[ Le nombre des étudiants inscrits en 2011/2017  ]" aria-label="Graphique en colonnes" id="datawrapper-chart-v2XL7" src="https://datawrapper.dwcdn.net/v2XL7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="523"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
