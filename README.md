@@ -97,7 +97,7 @@ Ce type de jeu de données qui est un diagrame à batons a été réalisé à pa
 Nous constatons après avoir bien observé notre diagramme que la région d'Ile de france est la région où il y'a le plus grand nombre d'établissements (écoles (58), universités (15), grands établissements (12), Autre (1)) comparé à d'autres régions de France où nous avons beaucoups moins détablissements comme en Auvergne-Rhône-Alpes qui contient un nombre de 11 écoles, 7 universités, 2 grands établissements, 1 autre , nous constatons aussi qu'il existe des régions où nous n'avons que des universités comme la région de la réunion où il y'a qu'une seule et unique université. Nous remarquons aussi qu'à l'étranger; il y'a que des étbalissements de type "autre" et pas d'universités ni d'écoles ou grands établissement français. 
 ##### Résultat du constat : 
 
-Le plus grand nombre d'établissements en Ile de france est dù à sa population dense, ainsi qu'au fait que c'est là ou se trouve la capitale de France ( Paris ).
+Le plus grand nombre d'établissements se trouve en Ile de france, cela est dù à sa population dense, ainsi qu'au fait que c'est là ou se trouve la capitale de France ( Paris ).
 
 
 <iframe src="https://data.opendatasoft.com/chart/embed/nombre_etablissements-region/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
@@ -121,11 +121,11 @@ Ce jeu de données présenté est un diagrame à batons a été réalisé à par
 
 ##### Observation et Constat : 
 
-Nous constatons après avoir bien observé notre diagramme que l'université de la Sorbonne contient le plus grand nombre d'inscription comparés aux autres, elle contient 52,28k d'inscriptions en 2011, et un peu plus en 2017 , l'établissemnt qui a le moins d'inscription est l'ecole supérieure de fonderie et de forge. Nous remarquons sue en moyenne globale ce sont les universités qui ont le plus d'inscriptions que les écoles.
+Nous constatons après avoir bien observé notre diagramme que l'université de la Sorbonne contient le plus grand nombre d'inscriptions comparés aux autres, elle contient 52,28k d'inscriptions en 2011, et un peu plus en 2017 , l'établissemnt qui a le moins d'inscription est l'ecole supérieure de fonderie et de forge. Nous remarquons que en moyenne globale ce sont les universités qui ont le plus d'inscriptions que les écoles.
 
 
 ##### Résultat du constat : 
-Hausse d'inscriptions dans les universités comparé aux écoles est dû au fait que les inscriptions soient gratuites ou moins chères dans les universités que dans les écoles, et probablement aussi liés aux conditions d'acceptabilité qui sont plus strictes quand il s'agit des écoles.
+La hausse d'inscriptions dans les universités comparé aux écoles est dû au fait que les inscriptions soient gratuites ou moins chères dans les universités que dans les écoles, et probablement aussi liée aux conditions d'acceptabilité qui sont plus strictes quand il s'agit des écoles.
 Le fait de comparer entre les inscriptions de l'année 2011 et 2017 a pour but de savoir si l'évolution des inscription (en moyenne) est resté le même au fil du temps. Donc nous avons confirmé cette hypothèse à partir de ce jeu de données ! 
 
 
