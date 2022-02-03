@@ -2,8 +2,8 @@
 ![Image](pexels-pixabay-207691.jpg)
 
 ## Introduction 
-Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'université française existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
-Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé ainsi que le but de ce dernier.
+Le jeu de données choisi porte sur le thème des établissements d'enseignement supérieur français, ce thème m'a attiré car en tant qu'étudiante à l'université de Paris Nanterre, je souhaite savoir combien d'universités françaises existe, comparer le nombre des universités, des écoles, des grands établissements par région... 
+Dans la suite de ce travail nous expliquerons chaque jeu de données réalisé ainsi que le but de ces derniers.
 
 ## Définition du Sujet 
 
