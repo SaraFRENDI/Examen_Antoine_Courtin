@@ -30,7 +30,7 @@ Pour faciliter la compréhension des jeux de données, j'ai fait en sorte de fai
 
 ### Premier jeu de données 
  
- Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft; est une carte géographique qui nous permet de voir d'une manière globale; combien d'établissement supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
+ Ce premier jeu de données, réalisé à partir de l'outil OpendataSoft; est une carte géographique qui nous permet de voir d'une manière globale; combien d'établissements supérieurs nous avons et où ils se situent, en cliquant sur un établissement par exemple nous voyons d'autres informations telles que le nom exact de l'établissement, son adresse, ains que son site Web.
 Garce à ce jeu de données, nous découvrons qu'il existe des établissement français qui se trouvent dans d'autres pays, par exemple : L'Institut français d'archéologie orientale du Caire qui se trouve en Egypte.
 
 
